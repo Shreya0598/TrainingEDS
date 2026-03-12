@@ -3,8 +3,8 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(357px, 1fr));
+  gap: 54px;
 }
 
 .cards > ul > li {
@@ -13,7 +13,7 @@
 }
 
 .cards .cards-card-body {
-  margin: 16px;
+  margin: 26px;
 }
 
 .cards .cards-card-image {
